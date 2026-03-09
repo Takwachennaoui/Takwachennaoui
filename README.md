@@ -1,6 +1,6 @@
 # Takwa Chennaoui 👋
 
-**Étudiante en Informatique | Développement Web & Mobile | Gestion des Systèmes d’Information**  
+**Étudiante en Informatique | Développement Web & Mobile | Passionnée par les projets open-source**  
 Actuellement en projet de fin d’études chez **Dieter Braun Tunisie**, sur un projet d’**automatisation industrielle** et de systèmes de vision.
 
 ---
