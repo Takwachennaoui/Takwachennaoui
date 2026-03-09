@@ -19,8 +19,7 @@ Passionnée par le **développement logiciel**, l’**intelligence artificielle*
 - **Méthodologies** : POO, UML, Agile / Scrum, QA  
 - **IA & Data** : Traitement d’image, Machine Learning, SQL, Python (pandas)
 
-m
 
 ## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/takwa-chennaoui-62449a2a0)  
+- LinkedIn :[LinkedIn](https://www.linkedin.com/in/takwa-chennaoui-62449a2a0)  
 - Email : takwachennaoui20@gmail.com  
