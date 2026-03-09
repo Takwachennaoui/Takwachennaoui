@@ -22,4 +22,4 @@ Passionnée par le **développement logiciel**, l’**intelligence artificielle*
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/takwa-chennaoui-62449a2a0)  
-- Email : takwachennaoui20@gmail.com  
+- takwachennaoui20@gmail.com  
