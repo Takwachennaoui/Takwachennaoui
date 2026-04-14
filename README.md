@@ -1,25 +1,12 @@
-# Takwa Chennaoui 👋
+AI & Full-Stack Developer | Computer Vision | Industrial Automation
 
-**Étudiante en Informatique | Développement Web & Mobile | Gestion des Systèmes d’Information**  
-Actuellement en projet de fin d’études chez **Dieter Braun Tunisie**, sur un projet d’**automatisation industrielle** et de systèmes de vision.
+I design and develop intelligent systems that automate real-world industrial and business processes using AI, computer vision, and full-stack technologies.
 
----
+Key Focus:
+- Industrial AI systems (computer vision, automation)
+- Full-stack web & mobile applications
+- Business process digitalization
 
-## 📌 Objectif Professionnel
-Passionnée par le **développement logiciel**, l’**intelligence artificielle** et l’**automatisation industrielle**, je souhaite contribuer à des projets innovants et complexes tout en renforçant mes compétences techniques dans un environnement professionnel dynamique.
-
----
-
-
-## 💻 Compétences Techniques
-
-- **Langages & Frameworks** : Java, PHP, HTML/CSS, JavaScript, Python, C# | Laravel, Angular, Flutter, Bootstrap  
-- **Bases de données** : MySQL, SQLite, Firebase, MongoDB  
-- **Outils & Environnements** : Git, GitHub, VS Code, Linux, Windows, Docker, Apache  
-- **Méthodologies** : POO, UML, Agile / Scrum, QA  
-- **IA & Data** : Traitement d’image, Machine Learning, SQL, Python (pandas)
-
-
-## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/takwa-chennaoui-62449a2a0)  
-- takwachennaoui20@gmail.com  
+Current Experience:
+- AI Vision System (Dieter Braun Tunisia) – 95% accuracy industrial inspection
+- Internal Management System (Poulina Group Holding) – workflow automation
